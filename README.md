@@ -48,12 +48,12 @@ Sabendo as dimensões em pixeis de uma imagem, sabe-se imediatamente "quanto" de
 ### Compressão e formatos 
 Podem ser de duas naturezas:
   - Compressão sem perdas -> a compressão seguida pela descompressão preserva os dados da imagem, exemplos:
-    - .BMP
-    - .TIFF
-    - .DNG
-    - .PNG
-    - .ZIP
-  -  Compressão com perdas -> a compressão seguida de descompressão conduz à perda de alguma informação da imagem (pode ou não ser aparente ao sistema visual humano), exemplos:
-    - .GIF
-    - .JPEG
+    - .BMP;
+    - .TIFF;
+    - .DNG;
+    - .PNG;
+    - .ZIP;
+  - Compressão com perdas -> a compressão seguida de descompressão conduz à perda de alguma informação da imagem (pode ou não ser aparente ao sistema visual humano) 
+    - .GIF;
+    - .JPEG;
 _____________________________________________________________________________________________________________________________________________________________
