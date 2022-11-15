@@ -3,7 +3,7 @@ No decorrer do período da aula será utilizado a plataforma photoshop (https://
 
 Iniciamos com algumas teorias básicas para uma melhor compreensão.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+_____________________________________________________________________________________________________________________________________________________________
 # O que é a multimédia?
 A multimédia compreende basicamente o uso de media estáticos (texto, gráficos e imagens) e o uso de media dinâmico (vídeo, audio ou animações). Para unir e manipular esses dois tipos de media é necessário um dispositivo móvel ou um computador que conta com algum programa de edição, por exemplo o Photoshop. Como exemplo da multimédia temos: televisão, revistas, gravador de vídeo, internet, entre outras. 
 Qualquer tipo de média é codificado de uma forma única, ou seja todos os tipos de caracteres, letras números são traduzidos numa sequência de 0 e 1, assim entramos na- Representação digital da informação. 
@@ -53,4 +53,4 @@ Podem ser de duas naturezas:
   - Compressão sem perdas -> a compressão seguida pela descompressão preserva os dados da imagem;
   -  Compressão com perdas -> a compressão seguida de descompressão conduz à perda de alguma informação da imagem (pode ou não ser aparente ao sistema visual humano)
 
-
+_____________________________________________________________________________________________________________________________________________________________
