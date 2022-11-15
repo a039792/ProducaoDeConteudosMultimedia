@@ -31,8 +31,9 @@ O primeiro conjunto de caracter a ser normalizado foi o ASCII que continuou send
 Este, utiliza 7 bits para representar cada código, sendo assim representa 128 caracteres diferentes. 
 
 
-Tendo em conta os outros idiomas 
+Tendo em conta os outros idiomas o ASCII foi ampliado o reportório de caracteres suportadas por um conjunto de caracteres com 8 bits resultando num total de 256 caracteres, como mostra a figura:
 
+<img width="316" alt="8bits" src="https://user-images.githubusercontent.com/114168701/202018205-7f9a067e-3266-40a4-997d-438cf096566a.PNG">
 
 
 
