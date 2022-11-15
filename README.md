@@ -30,6 +30,7 @@ O primeiro conjunto de caracter a ser normalizado foi o ASCII que continuou send
 <img width="340" alt="7bits" src="https://user-images.githubusercontent.com/114168701/202014985-81ec7e08-9b9a-42cb-a96f-fb92bcab8c5f.PNG">
 Este, utiliza 7 bits para representar cada código, sendo assim representa 128 caracteres diferentes. 
 
+
 Tendo em conta os outros idiomas 
 
 
