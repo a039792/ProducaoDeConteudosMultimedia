@@ -23,17 +23,34 @@ O texto possui uma natureza dupla:
   - Representação visual da linguagem;
   - Elemento gráfico
 
+A representação do texto pode ter 3 formas possíveis:
+  - Texto não formatado (plain text);
+  - Texto formatado (rich text);
+  - Hipertexto;
+
+
 Para que se possa representar o texto no formato digital é necessário definir um mapeamento entre os caracteres abstratos de um lado alfabeto e os valores que podem ser armazenados no computador. 
 
-O primeiro conjunto de caracter a ser normalizado foi o ASCII que continuou sendo a norma dominante:
+O primeiro conjunto de caracter a ser normalizado foi o ASCII que continuou sendo a norma dominante, este utiliza 7 bits para representar cada código, sendo assim representa 128 caracteres diferentes: 
 
 <img width="340" alt="7bits" src="https://user-images.githubusercontent.com/114168701/202014985-81ec7e08-9b9a-42cb-a96f-fb92bcab8c5f.PNG">
-Este, utiliza 7 bits para representar cada código, sendo assim representa 128 caracteres diferentes. 
-
 
 Tendo em conta os outros idiomas o ASCII foi ampliado o reportório de caracteres suportadas por um conjunto de caracteres com 8 bits resultando num total de 256 caracteres, como mostra a figura:
 
 <img width="316" alt="8bits" src="https://user-images.githubusercontent.com/114168701/202018205-7f9a067e-3266-40a4-997d-438cf096566a.PNG">
 
+## A imagem
+As imagens bitmaps não são conteúdos corrigíveis porque o modo como se representam (matrizes de pixeis) não contém informação estrutural, a representação bitmap não descreve a imagem em termos de cor e brilho dos vários pixeis que constituem a imagem. A imagem pode ser resultado de um processo de captura do mundo real ou podem ser geradas por computador.
+
+### Representação
+Cada pixel da imagem possui um valor numérico, chamado de amplitude, que representa a sua cor;
+
+### Resolução
+Sabendo as dimensões em pixeis de uma imagem, sabe-se imediatamente "quanto" detalhe está contido na imagem.
+
+### Compressão e formatos 
+Podem ser de duas naturezas:
+  - Compressão sem perdas -> a compressão seguida pela descompressão preserva os dados da imagem;
+  -  Compressão com perdas -> a compressão seguida de descompressão conduz à perda de alguma informação da imagem (pode ou não ser aparente ao sistema visual humano)
 
 
