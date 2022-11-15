@@ -1,8 +1,5 @@
 # PRODUÇÃO DE CONTEÚDOS MULTIMÉDIA - TIWM - 2ºANO
 No decorrer do período da aula será utilizado a plataforma photoshop (https://www.adobe.com/pt/products/photoshop.html) para a exploração de diferentes tipos de medias. O principal objetivo do caderno em desenvolvimento é anotar os apontamentos mais importantes assim como os trabalhos feitos durante o período de avaliação.
-
-Iniciamos com algumas teorias básicas para uma melhor compreensão.
-
 _____________________________________________________________________________________________________________________________________________________________
 # O que é a multimédia?
 A multimédia compreende basicamente o uso de media estáticos (texto, gráficos e imagens) e o uso de media dinâmico (vídeo, audio ou animações). Para unir e manipular esses dois tipos de media é necessário um dispositivo móvel ou um computador que conta com algum programa de edição, por exemplo o Photoshop. Como exemplo da multimédia temos: televisão, revistas, gravador de vídeo, internet, entre outras. 
@@ -50,7 +47,13 @@ Sabendo as dimensões em pixeis de uma imagem, sabe-se imediatamente "quanto" de
 
 ### Compressão e formatos 
 Podem ser de duas naturezas:
-  - Compressão sem perdas -> a compressão seguida pela descompressão preserva os dados da imagem;
-  -  Compressão com perdas -> a compressão seguida de descompressão conduz à perda de alguma informação da imagem (pode ou não ser aparente ao sistema visual humano)
-
+  - Compressão sem perdas -> a compressão seguida pela descompressão preserva os dados da imagem, exemplos:
+    - .BMP
+    - .TIFF
+    - .DNG
+    - .PNG
+    - .ZIP
+  -  Compressão com perdas -> a compressão seguida de descompressão conduz à perda de alguma informação da imagem (pode ou não ser aparente ao sistema visual humano), exemplos:
+    - .GIF
+    - .JPEG
 _____________________________________________________________________________________________________________________________________________________________
