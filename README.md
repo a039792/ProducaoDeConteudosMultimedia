@@ -22,7 +22,15 @@ Para se obter uma representação digital da informação associada aos media, �
 O texto possui uma natureza dupla:
   - Representação visual da linguagem;
   - Elemento gráfico
+
 Para que se possa representar o texto no formato digital é necessário definir um mapeamento entre os caracteres abstratos de um lado alfabeto e os valores que podem ser armazenados no computador. 
+
+O primeiro conjunto de caracter a ser normalizado foi o ASCII que continuou sendo a norma dominante:
+
+<img width="340" alt="7bits" src="https://user-images.githubusercontent.com/114168701/202014985-81ec7e08-9b9a-42cb-a96f-fb92bcab8c5f.PNG">
+Este, utiliza 7 bits para representar cada código, sendo assim representa 128 caracteres diferentes. 
+
+Tendo em conta os outros idiomas 
 
 
 
