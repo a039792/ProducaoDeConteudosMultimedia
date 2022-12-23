@@ -60,7 +60,7 @@ ________________________________________________________________________________
 
 # prática
 
-Assim como em todos os casos de estudos, a prática faz uma grande diferença na aprendizagem dos alunos, então essa segunda parte vai focar em alguns pontos práticos no desenvolvimento de exercícios/trabalho prático que foi solicitado pelo Docente. O trabalho baseou no desenvolvimento de um cartaz com o objetivo de promover um evento sobre qualquer tema escolhido pelo aluno. Importante realçar que para o desenvolvimento desse trabalho há um conjunto de regras a serem compridos como por exemplo na dimensão e no formato, o primeiro cartaz serviu de inspiração para criar os outros três cartazes com o mesmo ambiente, (só muda alguns pontos como o background, letras, cores, etc.
+Assim como em todos os casos de estudos, a prática faz uma grande diferença na aprendizagem dos alunos, então essa segunda parte vai focar em alguns pontos práticos no desenvolvimento de exercícios/trabalho prático que foi solicitado pelo Docente. O trabalho baseou no desenvolvimento de um cartaz com o objetivo de promover um evento sobre qualquer tema escolhido pelo aluno. Importante realçar que para o desenvolvimento desse trabalho há um conjunto de regras a serem compridos como por exemplo em relação a dimensão e ao formato, o primeiro cartaz serviu de inspiração para criar os outros três cartazes com o mesmo ambiente, (só muda alguns pontos como o background, letras, cores, etc.
 
 ## Viens Danser
 -> Nome entitulado ao meu trabalho.  
