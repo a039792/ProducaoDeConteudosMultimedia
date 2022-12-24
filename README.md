@@ -66,6 +66,17 @@ Assim como em todos os casos de estudos, a prática faz uma grande diferença na
 -> Nome entitulado ao meu trabalho.  
 
 <<<1ºmodelo-imagem>>>
-Este possui uma dimensão de: 3508-4961; 96 dpi (era suposto ter 300 dpi)  e 24bit, .jpeg.
-...imcompleto...
+Descrição
+Este possui uma dimensão de: 3508-4961; 96 dpi (era suposto ter 300 dpi)  e 24 bit, e em formato jpeg.
+
+<<<2ºmodelo-imagem>>>
+Descrição
+Nesta segunda versão, podemos observar mudança do background, alteração dos textos (cor, tamnaho e tipo) e também no posicionamento das personagens. Características: dimensionamento de 3508-4961; 96 de dpi; 24 bit e em formato jpeg.
+
+<<<3ºmodelo-imagem>>>
+Descrição
+A partir da segunda versão foi criado esta versão, também com várias alterações nos componentes. Este foi modificado justamente para o uso no app Instagram que obrigatóriamente teremos a dimensão de 1080-1920; 96 dpi; é de 32 bit e em um formato png.
+
+<<<4ºmodelo>>>
+Descrição
 
