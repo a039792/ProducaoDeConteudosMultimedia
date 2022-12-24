@@ -58,25 +58,27 @@ Podem ser de duas naturezas:
     - .JPEG;
 _____________________________________________________________________________________________________________________________________________________________
 
-# prática
+# Prática
 
 Assim como em todos os casos de estudos, a prática faz uma grande diferença na aprendizagem dos alunos, então essa segunda parte vai focar em alguns pontos práticos no desenvolvimento de exercícios/trabalho prático que foi solicitado pelo Docente. O trabalho baseou no desenvolvimento de um cartaz com o objetivo de promover um evento sobre qualquer tema escolhido pelo aluno. Importante realçar que para o desenvolvimento desse trabalho há um conjunto de regras a serem compridos como por exemplo em relação a dimensão e ao formato, o primeiro cartaz serviu de inspiração para criar os outros três cartazes com o mesmo ambiente, (só muda alguns pontos como o background, letras, cores, etc.
 
 ## Viens Danser
 -> Nome entitulado ao meu trabalho.  
 
-<<<1ºmodelo-imagem>>>
+###<<<1ºmodelo-imagem>>>
 Descrição
 Este possui uma dimensão de: 3508-4961; 96 dpi (era suposto ter 300 dpi)  e 24 bit, e em formato jpeg.
 
-<<<2ºmodelo-imagem>>>
+###<<<2ºmodelo-imagem>>>
 Descrição
-Nesta segunda versão, podemos observar mudança do background, alteração dos textos (cor, tamnaho e tipo) e também no posicionamento das personagens. Características: dimensionamento de 3508-4961; 96 de dpi; 24 bit e em formato jpeg.
+Neste segundo modelo, podemos observar mudança do background, alteração dos textos (cor, tamnaho e tipo) e também no posicionamento das personagens. Características: dimensionamento de 3508-4961; 96 de dpi; 24 bit e em formato jpeg.
 
-<<<3ºmodelo-imagem>>>
+###<<<3ºmodelo-imagem>>>
 Descrição
-A partir da segunda versão foi criado esta versão, também com várias alterações nos componentes. Este foi modificado justamente para o uso no app Instagram que obrigatóriamente teremos a dimensão de 1080-1920; 96 dpi; é de 32 bit e em um formato png.
+A partir do segundo modelo foi criado este modelo, também com várias alterações nos componentes. Este foi modificado justamente para o uso no app Instagram que obrigatóriamente teremos a dimensão de 1080-1920; 96 dpi; é de 32 bit e em um formato png.
 
-<<<4ºmodelo>>>
+###<<<4ºmodelo>>>
 Descrição
+É exatamente igual ao 3º modelo, a única diferença presente é justamente na dimensão e no formato respetivamente 3508-4961 e tif
+
 
