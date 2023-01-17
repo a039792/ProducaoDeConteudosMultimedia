@@ -68,16 +68,19 @@ Existem dois grandes tipos de compreensão:
 #### Intraframe ou espacial 
 Cada fotograma é comprimido independentemente.
 Assim como na imagem há compreensão com e sem perda. Ele possui o seguinte conjunto de formato: 
+
     - DVD Pro; 
     - Apple Prores; 
     - AVC-Intra; 
     - Digital Betacam. 
+    
 Nesse tipo de compreensão é ajustado de forma que cada fotograma ocupa 125k.
 
 #### Interframe (Temporal) 
 É o tipo em que o algoritmo escolhe um grupo de imagem e a primeira é compremida inteira, e os outros é observados nos difernças de pixeis e só a parte em diferenças é que muda. Este tipo de compreensão é muito recomendado porque só são gravado as diferenças.
 Codecs Interframe:
-     - MPeg video;
+
+     -  MPeg video;
      - MPeg2 video (verefica a mudança de posições dos pixeis);
      - Div X ou MPeg4;
      - Windows Media video;
@@ -92,5 +95,9 @@ O bitrate pode ser:
 
 # Prática
 
-Assim como em todos os casos de estudos, a prática faz uma grande diferença na aprendizagem dos alunos, então essa segunda parte vai focar em alguns pontos práticos no desenvolvimento de exercícios/trabalho prático que foi solicitado pelo Docente. O trabalho baseou no desenvolvimento de um cartaz com o objetivo de promover um evento sobre qualquer tema escolhido pelo aluno. Importante realçar que para o desenvolvimento desse trabalho há um conjunto de regras a serem compridos como por exemplo em relação a dimensão e ao formato, o primeiro cartaz serviu de inspiração para criar os outros três cartazes com o mesmo ambiente, (só muda alguns pontos como o background, letras, cores, etc.
+Assim como em todos os casos de estudos, a prática faz uma grande diferença na aprendizagem dos alunos, então essa segunda parte vai focar em alguns pontos práticos no desenvolvimento de exercícios/trabalho prático que foi solicitado pelo Docente. 
+
+O primeiro projeto baseou no desenvolvimento de um cartaz com o objetivo de promover um evento sobre qualquer tema escolhido pelo aluno. Importante realçar que para o desenvolvimento desse trabalho há um conjunto de regras a serem compridos como por exemplo em relação a dimensão e ao formato. Para o segundo projeto o objetivo é criar um vídeo de aproximadamente 3 minuto, considerando a regra de 30 graus e a regra de 180. 
+
+
 
