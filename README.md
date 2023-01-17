@@ -80,7 +80,7 @@ Nesse tipo de compreensão é ajustado de forma que cada fotograma ocupa 125k.
 É o tipo em que o algoritmo escolhe um grupo de imagem e a primeira é compremida inteira, e os outros é observados nos difernças de pixeis e só a parte em diferenças é que muda. Este tipo de compreensão é muito recomendado porque só são gravado as diferenças.
 Codecs Interframe:
 
-     -  MPeg video;
+     - MPeg video;
      - MPeg2 video (verefica a mudança de posições dos pixeis);
      - Div X ou MPeg4;
      - Windows Media video;
