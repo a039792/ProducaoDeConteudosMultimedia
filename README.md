@@ -99,5 +99,11 @@ Assim como em todos os casos de estudos, a prática faz uma grande diferença na
 
 O primeiro projeto baseou no desenvolvimento de um cartaz com o objetivo de promover um evento sobre qualquer tema escolhido pelo aluno. Importante realçar que para o desenvolvimento desse trabalho há um conjunto de regras a serem compridos como por exemplo em relação a dimensão e ao formato. Para o segundo projeto o objetivo é criar um vídeo de aproximadamente 3 minuto, considerando a regra de 30 graus e a regra de 180. 
 
+## Plataformas utilizados para o desenvolvimento dos projetos
+  - O Adobe Premiere Pro - para edição de vídeo; 
+  - O Adobe Photoshop - para edição de imagens/fotos;
+
+## Considerações 
+Nunca tive contacto com qualquer ferramenta de edição (tanto de vídeo como de imagens), os meus estudos basearam no que foi dado durante o período de avaliação e as videoaulas. 
 
 
