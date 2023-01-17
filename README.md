@@ -58,27 +58,39 @@ Podem ser de duas naturezas:
     - .JPEG;
 _____________________________________________________________________________________________________________________________________________________________
 
+## Introdução ao estudo do vídeo
+### O que é vídeo?
+-> Vídeo é um sistema de combinações de imagens, no qual este pode ser acompanhado de som. 
+Existem dois grandes tipos de compreensão: 
+  - Intraframe ou espacial;
+  - Interframe ou temporal.
+   
+#### Intraframe ou espacial 
+Cada fotograma é comprimido independentemente.
+Assim como na imagem há compreensão com e sem perda. Ele possui o seguinte conjunto de formato: 
+    - DVD Pro; 
+    - Apple Prores; 
+    - AVC-Intra; 
+    - Digital Betacam. 
+Nesse tipo de compreensão é ajustado de forma que cada fotograma ocupa 125k.
+
+#### Interframe (Temporal) 
+É o tipo em que o algoritmo escolhe um grupo de imagem e a primeira é compremida inteira, e os outros é observados nos difernças de pixeis e só a parte em diferenças é que muda. Este tipo de compreensão é muito recomendado porque só são gravado as diferenças.
+Codecs Interframe:
+     - MPeg video;
+     - MPeg2 video (verefica a mudança de posições dos pixeis);
+     - Div X ou MPeg4;
+     - Windows Media video;
+     - Theora;
+     - H.264 (Normas de videoconferência em tempo real)
+
+#### O que é bitrate de vídeo?
+Bitrate refere a quantidade de dados que é tranferido. Ele é medido por Bits por segundos (bts/s)
+O bitrate pode ser: 
+  - Constante; 
+  - Variável.
+
 # Prática
 
 Assim como em todos os casos de estudos, a prática faz uma grande diferença na aprendizagem dos alunos, então essa segunda parte vai focar em alguns pontos práticos no desenvolvimento de exercícios/trabalho prático que foi solicitado pelo Docente. O trabalho baseou no desenvolvimento de um cartaz com o objetivo de promover um evento sobre qualquer tema escolhido pelo aluno. Importante realçar que para o desenvolvimento desse trabalho há um conjunto de regras a serem compridos como por exemplo em relação a dimensão e ao formato, o primeiro cartaz serviu de inspiração para criar os outros três cartazes com o mesmo ambiente, (só muda alguns pontos como o background, letras, cores, etc.
-
-## Viens Danser
--> Nome entitulado ao meu trabalho.  
-
-###<<<1ºmodelo-imagem>>>
-Descrição
-Este possui uma dimensão de: 3508-4961; 96 dpi (era suposto ter 300 dpi)  e 24 bit, e em formato jpeg.
-
-###<<<2ºmodelo-imagem>>>
-Descrição
-Neste segundo modelo, podemos observar mudança do background, alteração dos textos (cor, tamnaho e tipo) e também no posicionamento das personagens. Características: dimensionamento de 3508-4961; 96 de dpi; 24 bit e em formato jpeg.
-
-###<<<3ºmodelo-imagem>>>
-Descrição
-A partir do segundo modelo foi criado este modelo, também com várias alterações nos componentes. Este foi modificado justamente para o uso no app Instagram que obrigatóriamente teremos a dimensão de 1080-1920; 96 dpi; é de 32 bit e em um formato png.
-
-###<<<4ºmodelo>>>
-Descrição
-É exatamente igual ao 3º modelo, a única diferença presente é justamente na dimensão e no formato respetivamente 3508-4961 e tif
-
 
